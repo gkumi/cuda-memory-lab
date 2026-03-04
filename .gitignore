@@ -1,0 +1,14 @@
+# build artifacts
+*.exe
+*.o
+*.out
+
+# generated outputs
+output-*.txt
+
+# editor / OS noise
+.vscode/
+.DS_Store
+
+# cuda temp
+*.nvprof
